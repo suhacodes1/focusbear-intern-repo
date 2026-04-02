@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "lint:md": "markdownlint-cli2 \"**/*.md\"",
-    "spellcheck": "cspell \"**/*.md\"",
-    "check:docs": "npm run lint:md && npm run spellcheck",
-    "prepare": "husky"
-  },
+"scripts": {
+  "lint:md": "markdownlint-cli2",
+  "spellcheck": "cspell \"**/*.md\" --no-progress --exclude \"node_modules/**\"",
+  "check:docs": "npm run lint:md && npm run spellcheck",
+  "prepare": "husky"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",

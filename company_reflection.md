@@ -1,4 +1,4 @@
-Understanding Focus Bear’s Mission & Vision
+# Understanding Focus Bear’s Mission & Vision
 
 I think Focus Bear was created to help people stay focused and build better daily habits, especially in a world where distractions like social media and constant notifications make it hard to concentrate. It seems designed to support people who struggle with productivity and consistency, including students and individuals who may find it harder to maintain routines.
 

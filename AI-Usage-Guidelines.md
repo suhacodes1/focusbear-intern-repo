@@ -1,4 +1,5 @@
-Use of AI Tools
+# Use of AI Tools
+
 Research & Learn
 
 1. AI Tools Used in My Role
@@ -63,7 +64,7 @@ Task Completion
 
 I used an AI tool to assist in generating and structuring a technical document. The AI helped organise ideas clearly and improve the overall clarity of the content.
 
-2. Review of AI-Generated Output
+1. Review of AI-Generated Output
 
 The output required:
 
@@ -73,7 +74,7 @@ Adjustments to better match the intended context
 
 This showed that AI outputs are useful but require careful review before use.
 
-3. Best Practice to Follow
+1. Best Practice to Follow
 
 A key best practice I will follow is to never input confidential or sensitive information into AI tools and to always critically review and validate any AI-generated output before using it.
 

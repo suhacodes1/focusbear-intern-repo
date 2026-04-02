@@ -1,4 +1,5 @@
-User Manual for Suha Fathima
+# User Manual for Suha Fathima
+
 My Role
 
 I am a Software Engineering student currently working on projects related to web development, data analytics, and product-focused problem solving. I enjoy building user-centric solutions and continuously improving my technical and professional skills.

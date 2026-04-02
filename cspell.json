@@ -1,15 +1,34 @@
 {
   "version": "0.2",
-  "language": "en",
+  "language": "en-GB",
   "words": [
     "FocusBear",
     "markdownlint",
     "cspell",
     "Husky",
-    "GitHub"
+    "GitHub",
+    "Tiimo",
+    "Routinery",
+    "Suha",
+    "Fathima",
+    "summarisation",
+    "anonymised",
+    "organise",
+    "minimising",
+    "behaviour",
+    "organisation",
+    "authorised",
+    "unauthorised",
+    "prioritise",
+    "prioritisation",
+    "analysing",
+    "categorising",
+    "finalised",
+    "practised",
+    "inclusivity",
+    "colours"
   ],
   "ignorePaths": [
-    "node_modules",
-    ".git"
+    "node_modules"
   ]
 }

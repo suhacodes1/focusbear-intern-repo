@@ -1,4 +1,5 @@
-Working with Vulnerable Populations
+# Working with Vulnerable Populations
+
 Research & Learn
 
 1. Vulnerable Populations and Challenges in Digital Spaces
@@ -29,7 +30,7 @@ Provide structured instructions and expectations
 Respect different working styles and pacing
 Be patient and open to different communication preferences
 Allow flexibility in deadlines and workflows where possible
-Create a supportive and non-judgmental environment
+Create a supportive and non judgemental environment
 Reflection
 
 1. Adjusting Communication Style
@@ -56,11 +57,11 @@ Task Completion
 
 A common insight from individuals with ADHD is that productivity tools can feel overwhelming when they require too many steps or present too much information at once. Simplicity, clarity, and flexibility are essential for maintaining engagement.
 
-2. Design or Communication Improvement
+1. Design or Communication Improvement
 
 I will focus on reducing cognitive overload by ensuring that interfaces and instructions are simple, structured, and easy to follow. This includes limiting unnecessary elements and prioritising clarity.
 
-3. Example Supportive Response to a User
+1. Example Supportive Response to a User
 
 "Thank you for sharing your experience. It is completely understandable to feel overwhelmed when tasks start to build up. Let’s try breaking things down into smaller, manageable steps. You can start with just one simple task, and we can take it from there. If anything feels unclear or difficult, please let me know and I can help guide you through it."
 
