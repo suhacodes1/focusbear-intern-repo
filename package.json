@@ -1,0 +1,20 @@
+{
+  "name": "focusbear-intern-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint:md": "markdownlint-cli2 \"**/*.md\"",
+    "spellcheck": "cspell \"**/*.md\"",
+    "check:docs": "npm run lint:md && npm run spellcheck",
+    "prepare": "husky"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cspell": "^9.7.0",
+    "husky": "^9.1.7",
+    "markdownlint-cli2": "^0.22.0"
+  }
+}
