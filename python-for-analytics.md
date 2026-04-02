@@ -1,3 +1,5 @@
+<!-- cspell:words Matplotlib Seaborn pyplot behavior -->
+
 # Python for Data Analytics
 
 1. Why is Python preferred for data analytics over other languages?
