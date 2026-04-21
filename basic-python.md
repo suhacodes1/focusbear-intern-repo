@@ -1,6 +1,6 @@
 # Basic Python Exercises
 
-## 1. Hello, Python!
+## 1. Hello, Python
 
 ```python
 print("Hello, Python!")
@@ -26,7 +26,7 @@ print(food, "sounds delicious! If I could code a meal, I would make a giant plat
 
 import random
 
-secret_number = random.randint(1, 10)
+secret_number = random.randrange(1, 11)
 guess = int(input("Guess a number between 1 and 10: "))
 
 if guess == secret_number:
