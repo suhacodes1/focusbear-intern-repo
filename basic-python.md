@@ -24,16 +24,16 @@ food = input("What is your favourite food? ")
 
 print(food, "sounds delicious! If I could code a meal, I would make a giant plate of", food + "!")
 
+
 import random
 
-secret_number = random.randrange(1, 11)
+secret_number = random.choice([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
 guess = int(input("Guess a number between 1 and 10: "))
 
 if guess == secret_number:
-print("Correct! You guessed the number.")
+    print("Correct! You guessed the number.")
 else:
-print("Nice try! The correct number was", secret_number)
-
+    print("Nice try! The correct number was", secret_number)
 
     I found the number guessing game the most fun because it felt more interactive than the other exercises. It was interesting to use the random module and see how Python can be used to make a simple game.
 
