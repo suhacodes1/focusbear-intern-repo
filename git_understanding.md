@@ -14,7 +14,7 @@ I learned that merge conflicts are a normal part of working with Git, especially
 
 ---
 
-# Understanding Pull Requests
+## Understanding Pull Requests
 
 ## Why are Pull Requests important in a team workflow?
 
