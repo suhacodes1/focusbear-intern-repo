@@ -143,7 +143,7 @@ There are several situations where staging without immediately committing is use
 - **Grouping related changes:** You modified five files but only two relate to the same fix. Stage those two, commit them with a focused message, then stage the others separately.
 - **Reviewing before committing:** Staging first lets you run `git status` and `git diff --staged` to double-check exactly what will be included before it is finalised.
 - **Partial file staging:** Using `git add -p`, you can stage specific chunks within a single file rather than the whole file, for very fine-grained control.
-- **Pausing mid-task:** You might stage completed work while continuing to edit other files, keeping your progress checkpointed without making a premature commit.
+- **Pausing mid-task:** You might stage completed work while continuing to edit other files, keeping your progress recorded without making a premature commit.
 
 ### What I Tried in My Repo
 
