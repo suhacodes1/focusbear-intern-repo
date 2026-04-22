@@ -18,7 +18,7 @@ git --version
 
 **Output:**
 
-```
+```bash
 git version 2.47.1
 ```
 
