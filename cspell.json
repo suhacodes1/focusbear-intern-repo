@@ -3,9 +3,11 @@
   "language": "en-GB",
   "words": [
     "analysing",
+    "analyzing",
     "anonymised",
     "authorised",
     "behaviour",
+    "behavior",
     "categorising",
     "colours",
     "cspell",
@@ -27,9 +29,13 @@
     "Suha",
     "summarisation",
     "Tiimo",
-    "unauthorised"
+    "unauthorised",
+    "analysing",
+    "Matplotlib",
+    "Seaborn",
+    "groupby",
+    "fillna",
+    "dropna"
   ],
-  "ignorePaths": [
-    "node_modules"
-  ]
+  "ignorePaths": ["node_modules"]
 }

@@ -54,18 +54,18 @@ print(df)
 
 ### Reflection
 
-1. What are the advantages of using Pandas for data manipulation?
+### 1. What are the advantages of using Pandas for data manipulation?
 
 Pandas makes it easier to work with structured data because it provides built-in functions for filtering, sorting, and aggregating data. It reduces the amount of code needed and makes data analysis faster and more efficient.
 
-2. How do you filter and aggregate data in Pandas?
+### 2. How do you filter and aggregate data in Pandas?
 
 Filtering is done by applying conditions to columns, such as selecting rows where a value meets a condition. Aggregation is done using functions like groupby() combined with operations like sum() or count() to summarise the data.
 
-3. What techniques help handle missing or incorrect data?
+### 3. What techniques help handle missing or incorrect data?
 
 Missing data can be handled using functions like fillna() to replace missing values or dropna() to remove them. Incorrect data can be fixed using cleaning methods like replace() or by correcting values manually.
 
-4. How would Pandas be useful for analyzing Focus Bear’s user activity data?
+### 4. How would Pandas be useful for analyzing Focus Bear’s user activity data?
 
 Pandas can be used to analyse Focus Bear’s user data by tracking user activity, focus time, and completed tasks. It can help identify trends such as which users are most active or when usage is highest. This can support better decision-making and product improvements.
