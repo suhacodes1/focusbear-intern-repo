@@ -37,11 +37,11 @@ I also noticed that negative values should not be accepted because completed tas
 
 ## Summary
 
-## This task helped me understand how unit testing improves code quality. By testing normal cases and edge cases, I was able to make the function more reliable, easier to understand, and safer to modify in the future.
+This task helped me understand how unit testing improves code quality. By testing normal cases and edge cases, I was able to make the function more reliable, easier to understand, and safer to modify in the future.
 
-# Naming Variables and Functions
+### Naming Variables and Functions
 
-## Goal
+### Naming Goal
 
 Learn how to choose clear and meaningful names for variables and functions.
 
