@@ -317,3 +317,23 @@ Each line of `index.js` was prefixed with the commit hash, author, and timestamp
 Each of these sections has deepened my understanding of Git beyond the basics of `add`, `commit`, and `push`. The staging model showed me that Git is designed for precision and intentional control. `git bisect` demonstrated that debugging does not always mean reading code — sometimes it means searching history efficiently. The advanced commands reinforced that Git is a research and collaboration tool as much as a version control system: `git log`, `git blame`, and `git cherry-pick` all exist to help teams understand, navigate, and selectively apply their project history.
 
 Going forward I will treat Git as a core professional skill, not just a mechanism for saving work.
+
+## Part 6: Merge Conflicts & Conflict Resolution
+
+### What Caused the Conflict?
+
+The conflict happened because I edited the same part of the same file on two different branches.
+
+I created a new branch and changed a line in my test file. Then I switched back to `main` and edited that same line differently. When I tried to merge the branch back into `main`, Git could not automatically decide which version to keep, so it created a merge conflict.
+
+### How Did I Resolve It?
+
+I resolved the conflict using my Git desktop client. The file showed both versions of the conflicting change. I compared the version from `main` with the version from my branch, then manually chose the final version I wanted to keep.
+
+After resolving the conflict, I saved the file, marked the conflict as resolved, committed the merge, and pushed the changes to GitHub.
+
+### What Did I Learn?
+
+I learned that merge conflicts are not errors, but situations where Git needs human input. They usually happen when two branches modify the same line or section of a file.
+
+This task helped me understand why it is important to pull the latest changes before starting work, keep commits focused, and communicate with teammates when editing the same files. I also learned that resolving conflicts is easier when the changes are small and the commit history is clear.
