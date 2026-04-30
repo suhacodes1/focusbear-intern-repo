@@ -37,4 +37,29 @@ I also noticed that negative values should not be accepted because completed tas
 
 ## Summary
 
-This task helped me understand how unit testing improves code quality. By testing normal cases and edge cases, I was able to make the function more reliable, easier to understand, and safer to modify in the future.
+## This task helped me understand how unit testing improves code quality. By testing normal cases and edge cases, I was able to make the function more reliable, easier to understand, and safer to modify in the future.
+
+# Naming Variables and Functions
+
+## Goal
+
+Learn how to choose clear and meaningful names for variables and functions.
+
+## Best Practices for Naming
+
+Good variable and function names should be clear, descriptive, and easy to understand. A name should explain what the value stores or what the function does without needing extra comments.
+
+Some good naming practices include:
+
+- Use descriptive names instead of short unclear names
+- Use verbs for function names, such as `calculate`, `get`, or `validate`
+- Use nouns for variable names
+- Keep names consistent across the codebase
+- Avoid vague names like `data`, `temp`, `x`, or `stuff`
+
+## Example of Poor Naming
+
+```python
+def calc(a, b):
+    return a / b * 100
+```
