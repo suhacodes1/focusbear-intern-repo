@@ -21,6 +21,8 @@
     "figsize",
     "xlabel",
     "ylabel",
+    "gotchas",
+    "docstrings",
     "inclusivity",
     "markdownlint",
     "minimising",
